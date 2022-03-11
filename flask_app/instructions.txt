@@ -1,0 +1,2 @@
+no venv folder
+no .idea folder
